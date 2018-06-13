@@ -1,5 +1,6 @@
 A Terraform template that deploys an HTTP ELB, multiple VM-Series firewalls, multiple Apache web servers, a TCP ILB and associated subnets (as in the image shown below). In addition, the Terraform template can be used in conjunction with bootstrapping to automate additional VM-Series firewall to configuration parameters such as routes, security policies, etc. 
 
+<img width="261" alt="image" src="https://user-images.githubusercontent.com/30295405/41330798-57d56954-6e8a-11e8-8fe0-6954803b103b.png">
  
 ### Support Policy
 

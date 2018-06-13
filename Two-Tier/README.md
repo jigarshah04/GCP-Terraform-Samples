@@ -1,6 +1,6 @@
 A Terraform template that deploys a two tiered application environment that consists of a WordPress server and a MySQL database protected by the VM-Series next generation firewall and associated subnets (as in the image shown below). In addition, the Terraform template can be used in conjunction with bootstrapping to automate additional VM-Series firewall to configuration parameters such as routes, security policies, etc.
  
-
+<img width="288" alt="image" src="https://user-images.githubusercontent.com/30295405/41331228-d5be43d4-6e8c-11e8-9a85-03a89cce377b.png">
 
 ### Support Policy
 

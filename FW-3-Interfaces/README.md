@@ -2,7 +2,8 @@ For the description within the page,
 
 A Terraform template that deploys a VM-Series firewall with three interfaces and associated subnets configured (as in the image shown below). In addition, the Terraform template can be used in conjunction with bootstrapping to automate additional VM-Series firewall to configuration parameters such as routes, security policies, etc. 
  
- 
+ <img width="359" alt="image" src="https://user-images.githubusercontent.com/30295405/41330520-d208f54e-6e88-11e8-83cb-11044e5a6b45.png">
+
  
 Add this to the page as well please. 
 Support Policy
